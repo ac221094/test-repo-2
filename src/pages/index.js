@@ -17,7 +17,7 @@ const features = [
     image: '/img/undraw_docusaurus_react.svg',
     description:
       'Find technical information, instructions, and resources in one place.',
-    link: '/docs',
+    link: '/docs/intro',
   },
   {
     title: 'Blog',
